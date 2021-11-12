@@ -1,4 +1,6 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Java and C#
+- 🌱 Estudando: Java e C#
+- ✉️ Contacte-me no emai: dhonatas.dev@gmail.com
+-  Pronome: ele/dele
