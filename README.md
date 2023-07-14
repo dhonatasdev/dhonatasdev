@@ -1,5 +1,5 @@
 ### Oi! Eu me chamo José Dhonatas 👋
-### Atualmente estou usando outra conta no github, o nove perfil pode ser encontrado [aqui](https://github.com/josedhontas)
+### Atualmente estou usando outra conta no github, o novo perfil pode ser encontrado [aqui](https://github.com/josedhontas)
 ### O meu portifólio pode ser encontrado [aqui](https://josedhonatas.me/)
 
 
